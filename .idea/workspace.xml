@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce5885d-6e93-42ca-a816-50009f044605" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaHibernate.iml" afterDir="false" />
+    <list default="true" id="fce5885d-6e93-42ca-a816-50009f044605" name="Changes" comment="primeiro commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +56,7 @@
       <recent name="C:\Users\tisco\javaHibernate\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CursoTest.cadastrar">
+  <component name="RunManager" selected="JUnit.CursoTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.App" />
       <module name="javaHibernate" />
@@ -114,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CursoTest.cadastrar" />
         <item itemvalue="JUnit.CursoTest" />
+        <item itemvalue="JUnit.CursoTest.cadastrar" />
         <item itemvalue="Application.appTeste" />
         <item itemvalue="Application.App" />
       </list>
@@ -130,7 +126,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711134957443</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeiro commit">
+      <created>1711652868911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711652868911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
